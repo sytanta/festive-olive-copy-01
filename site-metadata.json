@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "Azimuth",
-        "logo_img": "images/logo.png",
+        "logo_img": "images/open_projects_logo_black.png",
         "has_nav": true,
         "menu": {
             "actions": [
