@@ -95,11 +95,3 @@ footer {
     margin-top: 0.8rem;
   }
 }
-
-@media only screen and (max-width: 600px) {
-  .widget {
-    -webkit-flex: 0 0 100%;
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-  }
-}
